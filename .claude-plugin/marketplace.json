@@ -1,0 +1,15 @@
+{
+  "name": "gpt-image",
+  "description": "Generate real images (PNG) from Claude Code via the OpenAI Codex CLI image_generation tool (ChatGPT login).",
+  "owner": {
+    "name": "kjhk3082",
+    "url": "https://github.com/kjhk3082"
+  },
+  "plugins": [
+    {
+      "name": "gpt-image",
+      "description": "Claude Code skill that delegates image generation to the local Codex CLI and saves the PNG to an exact path.",
+      "source": "./"
+    }
+  ]
+}

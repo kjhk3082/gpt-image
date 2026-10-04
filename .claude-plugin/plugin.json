@@ -1,0 +1,13 @@
+{
+  "name": "gpt-image",
+  "version": "1.0.0",
+  "description": "Generate real images (PNG) from Claude Code via the OpenAI Codex CLI image_generation tool (ChatGPT login).",
+  "author": {
+    "name": "kjhk3082",
+    "url": "https://github.com/kjhk3082"
+  },
+  "homepage": "https://github.com/kjhk3082/gpt-image",
+  "repository": "https://github.com/kjhk3082/gpt-image",
+  "license": "MIT",
+  "keywords": ["image-generation", "codex", "chatgpt", "gpt-image", "skill"]
+}
